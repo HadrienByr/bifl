@@ -1,6 +1,6 @@
 ![Icon](https://camo.githubusercontent.com/2b418776b6cc9cb7d90c68905d3381674f13d7ec/687474703a2f2f692e6375626575706c6f61642e636f6d2f4541367957612e706e67)
 
-## BIFL - Icon font generator
+## BIFL - Bob Icons Font loader
 
 ![Screenshot](https://camo.githubusercontent.com/7aaef96033be671fa29297c0efd6c50f97a502f6/68747470733a2f2f692e6375626575706c6f61642e636f6d2f65597736766a2e706e67)
 
