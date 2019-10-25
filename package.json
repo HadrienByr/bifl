@@ -1,0 +1,36 @@
+{
+  "name": "bifl",
+  "version": "2.1.10",
+  "description": "Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files, base on icon-font-generator by Tancredi Trugenberger",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadrienByr/bifl.git"
+  },
+  "bin": {
+    "bifl": "bin/bifl"
+  },
+  "scripts": {},
+  "author": "Hadrien Boyer",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "glob": "^7.1.2",
+    "minimist": "^1.2.0",
+    "webfonts-generator": "^0.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-recommended": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=v8.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Workshape/icon-font-generator/issues"
+  },
+  "homepage": "https://github.com/Workshape/icon-font-generator#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
